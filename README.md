@@ -65,7 +65,7 @@ I particularly enjoy backend challenges involving **application architecture, se
 
 ## Featured projects
 
-### 🚀 FlowTrack — Project & Issue Management Platform
+### 🚀 [FlowTrack](https://github.com/wassim48/flowtrack) — Project & Issue Management Platform
 
 **Java 21 · Spring Boot 3 · Spring Security · Keycloak · PostgreSQL · Flyway · Docker · Testcontainers**
 
@@ -73,7 +73,7 @@ Personal backend engineering project inspired by Jira and built as a **modular m
 
 Current implementation includes OAuth2/JWT authentication, Keycloak-to-PostgreSQL user synchronization, project membership and authorization, transactional project creation, project-scoped issues, pagination, Flyway migrations, relational constraints and automated integration testing.
 
-> Repository is currently private while the project is being prepared for public portfolio release.
+[**View repository →**](https://github.com/wassim48/flowtrack)
 
 ---
 
