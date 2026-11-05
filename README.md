@@ -9,7 +9,7 @@ Building secure, maintainable web applications with a strong focus on backend en
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wassim%20Lahdoudi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wassim-lahdoudi)
 [![Email](https://img.shields.io/badge/Email-wassim16lahdoudi%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wassim16lahdoudi@gmail.com)
 
-📍 Oujda, Morocco · Open to opportunities in Morocco
+📍 Oujda, Morocco · Open to opportunities in Morocco, internationally, and remote
 
 </div>
 
