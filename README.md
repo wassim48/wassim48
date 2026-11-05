@@ -19,7 +19,7 @@ Building secure, maintainable web applications with a strong focus on backend en
 
 I'm a **Software Engineer specialized in Java, Spring Boot and React**, graduated in Computer Engineering in 2026.
 
-During my 6-month final-year internship at **SIN-ONE in Rabat**, I contributed to **Polysco**, an academic management platform, working across REST APIs, React administration interfaces, identity and access management, OAuth2/OIDC security and microservices integration.
+During my 6-month final-year internship at **SIN-ONE in Rabat**, I contributed to **Polysco**, an academic management platform. My main contribution focused on its **Identity & Access Management (IAM)** module: secure authentication, user lifecycle management, role-based authorization, React administration interfaces and integration with a microservices environment.
 
 I particularly enjoy backend challenges involving **application architecture, security, relational data, transactions and automated testing**.
 
@@ -94,11 +94,12 @@ The application combines a **Spring Boot REST backend**, a **React frontend**, P
 
 Contributed to **Polysco**, an academic management platform:
 
-- Developed REST APIs with **Java 21, Spring Boot 3, JPA/Hibernate and PostgreSQL**
-- Built React administration interfaces for CRUD operations, search, filtering and permissions
-- Worked on IAM and application security with **Spring Security, Keycloak, OAuth2/OIDC, JWT, RBAC and OpenLDAP**
-- Integrated services using **Spring Cloud Gateway, Eureka, Config Server, Kafka and Resilience4J**
-- Collaborated using **Git/GitLab, Maven, Docker Compose and Postman**
+- Developed the **IAM module** with Java 21, Spring Boot 3, JPA/Hibernate and PostgreSQL for administrators, teachers, partners, roles and permissions
+- Implemented **transactional PostgreSQL–OpenLDAP synchronization** for user lifecycle operations, preserving consistency on partial failures
+- Integrated **Keycloak + OpenLDAP SSO** with OAuth2 Authorization Code + PKCE, TOTP-based MFA, JWT and RBAC
+- Built React administration interfaces with search, combined filters and **center-scoped access control**, also enforced server-side
+- Integrated the IAM service into a Spring Cloud environment with **Gateway, Eureka, Config Server and Resilience4J**, and consumed Kafka events to provision student identities in LDAP
+- Validated REST endpoints, authentication flows, authorization rules and DB/LDAP synchronization with Postman
 
 ## Education
 
