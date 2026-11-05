@@ -37,20 +37,16 @@ I particularly enjoy backend challenges involving **application architecture, se
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
 ### Data & Security
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2%20%2F%20OIDC-3C3C3D?style=flat-square)
 
@@ -77,15 +73,13 @@ Current implementation includes OAuth2/JWT authentication, Keycloak-to-PostgreSQ
 
 ---
 
-### 💼 Intelligent Job & Internship Finder
+### 💼 Job & Internship Finder — Academic team project
 
-**Spring Boot · React · Material UI · Python/Flask · PostgreSQL Full Text Search · Redis · Docker**
+**Spring Boot · Spring Security · JWT · React · MySQL**
 
-Team academic project providing candidate and recruiter spaces, profiles, dynamic forms, multicriteria search, filters, favorites and pagination.
+Academic team project exploring a job and internship platform. The GitHub repositories currently contain a **partial implementation**: JWT-based authentication and student profile management on the Spring Boot backend, plus early React interfaces for login, registration and CV/profile data.
 
-The application combines a **Spring Boot REST backend**, a **React frontend**, PostgreSQL full-text search, Redis caching and a Python/Flask NLP recommendation service.
-
-> Backend and frontend repositories are currently private while they are being prepared for portfolio release.
+> The repositories are currently private while the code is reviewed and cleaned up. Broader functionality from the academic project is not presented here as GitHub-verified implementation.
 
 ## Professional experience
 
